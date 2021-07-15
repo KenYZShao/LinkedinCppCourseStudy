@@ -1,4 +1,4 @@
-#C++ Essential Training-ComputerLinguistics
+#Linkedin C++ Essential Training
 Hello World
 
 This folder includes the C++ code from Linkedin Tutorial and a visual studio C++ practice project 
