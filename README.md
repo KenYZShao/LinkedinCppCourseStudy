@@ -10,7 +10,7 @@ made by Ken Yuzhou Shao.
 
 15th July Commented
 The first folder was uploaded in 1st July, excluding chapter 8,9 and 10.
-The rest of the files, below the first folder, are the completed sln project file which contains most of the code from the Linkedin Course. 
+The rest of the files, below the first folder, are the completed sln project file which contains most of the code from the Linkedin Courses. 
 
 ![github](https://github.com/KenYZShao/LinkedinCppCourseStudy-ComputerLinguistics/blob/master/Capture.JPG)
 
